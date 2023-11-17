@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Connect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/New Sites/E-commerce-website-using-React-and-Django" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Old/DRF_Tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Old/Django-Inventory-Management-System" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Old/Django/django-rest-framework-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Old/ProjectConnect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Old/gmb-poster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-ecommerce" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-ecommerce-project-v2" vcs="Git" />
+  </component>
+</project>
